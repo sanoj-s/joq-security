@@ -1,11 +1,11 @@
 # joq-security
-**joq-security** is an automation framework for the security test automation and generate the report to highlight the vulnerabilities. It provides rich features like test execution, test reporting and test details sharing via e-mail. The framework includes 200+ pre-built functions using which an Automation Engineer can easily develop the security test scripts and validate the vulnerabilities.
+**joq-security** is an automation framework for security test automation and generates a report highlighting the vulnerabilities. It provides rich features like test execution, test reporting and test details sharing via e-mail. The framework includes 200+ pre-built functions using which an Automation Engineer can easily develop the security test scripts and validate the vulnerabilities.
 
 <h3>Salient features of joq-security</h3>
-<li> Security test automation with different scan such as Spider, Ajax Spider, and Active Scan.
-<br><li> Test Data Generator, it helps to generate the test data that is required for the automation scripting. There are 159 built-in keywords available in the framework.
+<li> Security test automation with different scans such as Spider, Ajax Spider, and Active Scan.
+<br><li> Test Data Generator helps generate the test data required for the automation scripting. There are 159 built-in keywords available in the framework.
 <br><li> Handling test data (input data) from various sources like CSV, Excel, and Property files. 
-<br><li> Good reporting - framework generates HTML report with vulnerabilities and their resolutions.  
+<br><li> Good reporting - framework generates HTML reports with vulnerabilities and their resolutions.  
 <br><li> Email collaboration - send an email with details of automation execution and HTML attachment. 
 <br><li> Well-defined keyword document, get it from src/main/resources -> keywords folder of the project structure. 
 
