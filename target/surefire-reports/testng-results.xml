@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T11:03:45 IST" name="Suite" finished-at="2023-05-18T11:04:36 IST" duration-ms="50789">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T11:03:45 IST" name="SecurityTestSample" finished-at="2023-05-18T11:04:36 IST" duration-ms="50789">
+      <class name="com.autobots.testcases.SampleSecurityTests">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.autobots.testcases.SampleSecurityTests@6cd28fa7]" started-at="2023-05-18T11:03:45 IST" name="SetUp" finished-at="2023-05-18T11:03:45 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.autobots.testcases.SampleSecurityTests@6cd28fa7]" started-at="2023-05-18T11:03:45 IST" name="setup" finished-at="2023-05-18T11:03:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_spiderScanOnTarget()[pri:0, instance:com.autobots.testcases.SampleSecurityTests@6cd28fa7]" started-at="2023-05-18T11:03:45 IST" name="TC001_spiderScanOnTarget" description="Security Scan - Spider" finished-at="2023-05-18T11:04:36 IST" duration-ms="50684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_spiderScanOnTarget -->
+      </class> <!-- com.autobots.testcases.SampleSecurityTests -->
+    </test> <!-- SecurityTestSample -->
+  </suite> <!-- Suite -->
+</testng-results>
