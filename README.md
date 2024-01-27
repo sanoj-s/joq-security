@@ -17,7 +17,7 @@
 
 This automation framework will help to kickstart your security test automation scripting from the base level.	
 	
-Get your latest releases from 
+Get your latest releases from https://github.com/sanoj-s/joq-security/releases
 
 **Author: Sanoj Swaminathan**
 	
