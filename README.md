@@ -1,7 +1,7 @@
 # joq-security
 **joq-security** is an automation framework for performance testing and validation in real time. It provides rich features like test execution, reporting, and sharing test details via mail. The framework includes 210+ pre-built functions using which an Automation Engineer can easily develop the performance test scripts and their validations.
 
-<h3>Salient features of joq-performance</h3>
+<h3>Salient features of joq-security</h3>
 <li> Performance test automation.
 <br><li> Performance test execution of the samplers from the template file as a data-driven model.
 <br><li> Performance test execution based on the JMX file. 
